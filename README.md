@@ -321,7 +321,7 @@ psql -d customer_db -f sql/analysis_queries.sql
 ## 👤 Author
 
 **Mukul Madhav Cheekati**
-📍 Cleveland, OH | M.S. Business Analytics, Trine University *(Expected May 2026)*
+📍 Cleveland, OH | M.S. Business Analytics, Trine University 
 
 <p align="left">
   <a href="https://linkedin.com/in/mukulmadhav-cheekati">
